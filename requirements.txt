@@ -1,0 +1,9 @@
+dataset==1.6.2
+jupyter==1.0.0
+lxml==4.9.1
+openai==0.28.1
+openai-whisper==20230918
+python-dotenv==1.0.0
+requests-html==0.10.0
+selenium==4.15.2
+webdriver-manager==4.0.1
